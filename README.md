@@ -19,7 +19,7 @@
 
 <br>
 
-> Github:  [https://gitee.com/siebel/MGTableView--MiniProgram](https://gitee.com/siebel/MGTableView--MiniProgram)
+> Github:  [https://github.com/tomsiebel/MGSwiper--MiniProgram](https://github.com/tomsiebel/MGSwiper--MiniProgram)
 
 <br>
 
